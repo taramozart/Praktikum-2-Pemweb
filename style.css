@@ -1,0 +1,142 @@
+.header {
+width: 1885px;
+height: 351px;
+left: 18px;
+top: 31px;
+
+background: #D9D9D9;
+border-radius: 15px;
+}
+
+.header > h1 {
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+.header > .profil {
+    position: absolute;
+    margin: 30px;
+}
+
+.header > p {
+    position: absolute;
+    top: 300px;
+    left:30px
+}
+
+.main {
+position: absolute;
+width: 356px;
+height: 109px;
+top: 398px;
+font-size: 20px;
+background: rgba(241, 180, 180, 0.94);
+border-radius: 15px;
+color: #fffcfc;
+}
+
+.text {
+    position: absolute  ;
+    top: 500px;
+}
+.text > h2 {
+width: 1845px;
+height: 32px;
+padding :20px;
+background: rgba(94, 92, 92, 0.94);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+color: white;
+}
+
+.text > .desc {
+position: absolute;
+width: 623px;
+height: 184px;
+left: 532px;
+top: 88px;
+
+padding: 30px;
+text-align: justify;
+font-style:italic;
+font-size: 24px;
+background: #D9D9D9;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.text-2 {
+    position: absolute  ;
+    top: 900px;
+}
+
+.text-2 > h2 {
+    width: 1845px;
+    height: 32px;
+    padding :20px;
+    background: rgba(94, 92, 92, 0.94);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: white;
+    }
+.text-3 {
+    position: absolute  ;
+    top: 1200px;
+}
+.text-3 > h2 {
+    position: absolute;
+    width: 1845px;
+    height: 32px;
+    padding :20px;
+    top :30px;
+    background: rgba(94, 92, 92, 0.94);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: white;
+    }
+.text-2 > .container {
+    background-color: antiquewhite;
+    margin: 30px;
+    padding: 20px;
+    font-size:18px;
+}
+
+.container th {
+  text-align: 2px;
+  background-color: #f17777;
+  color: white;
+}
+
+.text-3 > .container-2 {
+position: absolute;
+top :60px;
+margin: 100px;
+padding: 30px;
+width: 356px;
+height: 319px;
+font-size: 20px;
+background: rgba(241, 180, 180, 0.94);
+border-radius: 15px;
+
+}
+.text-3 > .container-2 > button {
+    width: 100px;
+    padding: 5px;
+    font-size: 20px;
+    font-family:'Lucida Sans';
+    background-color: #a9a0a0;
+    border-radius: 7px;
+    border:#a19d9d
+}
+.text-3 > footer {
+    position: absolute;
+    width: 1865px;
+    height: 22px;
+    padding :10px;
+    top :600px;
+
+    text-align: center;
+    background: rgba(195, 187, 187, 0.94);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    color: white;
+}
